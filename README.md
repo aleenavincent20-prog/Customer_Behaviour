@@ -163,10 +163,6 @@ Customer-Behavior-Analysis/
 │
 ├── PowerBI/
 │   └── customer_behavior_dashboard.pbix
-│
-│
-├── Report/
-│   ├── Customer_Behavior_Report.pdf
 │ 
 │
 └── README.md
@@ -237,10 +233,6 @@ Refresh the data connection if required and explore the interactive dashboard.
 
 ---
 
-### 6️⃣ Review the Report
-
-Read the project report for a summary of insights and business recommendations.
-
 ---
 
 # 💡 Skills Demonstrated
@@ -276,8 +268,7 @@ Read the project report for a summary of insights and business recommendations.
 
 **Aspiring Data Analyst**
 
-**Skills:** SQL | Python | Power BI | Excel | Data Visualization | Business Intelligence | Statistics
+**Skills:** SQL |Basics Python | Power BI | Excel | Data Visualization | Business Intelligence | Statistics
 
 ---
 
-⭐ *If you found this project useful, feel free to star this repository.*
